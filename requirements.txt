@@ -8,9 +8,6 @@ numba==0.56.3
 numpy==1.23.3
 opencv-python==4.6.0.66
 pefile==2022.5.30
-progress==1.6
-pyinstaller==5.5
-pyinstaller-hooks-contrib==2022.10
 pystackreg==0.2.7
 pywin32==303
 pywin32-ctypes==0.2.0
