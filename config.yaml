@@ -1,0 +1,13 @@
+Images:
+  channels:
+    CH1: null
+    CH2: image
+    CH3: phase
+    CH4: null
+  folders:
+  - D:\tfm\1655
+  format: Keyence
+  input_file_type: TIF
+  recursive: true
+  zstack: true
+  log_level: null
