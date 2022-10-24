@@ -1,6 +1,6 @@
 from os import rename, walk, path, remove, sep
-import bin.config as config
-import bin.image_handling as ih
+import mods.config as config
+import mods.image_handling as ih
 from shutil import rmtree
 from concurrent.futures import ThreadPoolExecutor, ProcessPoolExecutor, as_completed
 from tqdm import tqdm

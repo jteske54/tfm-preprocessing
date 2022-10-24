@@ -1,5 +1,5 @@
-import bin.keyence as keyence
-import bin.config as config
+import mods.keyence as keyence
+import mods.config as config
 
 
 def main():
