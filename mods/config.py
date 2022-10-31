@@ -10,7 +10,6 @@ default_config = {"Images":{
         "C:/Folder2",
         "C:/Folder3"
         ],
-    "recursive":True,
     "input_file_type":"TIF",
     "channels":{
         "CH1":None,
@@ -18,7 +17,6 @@ default_config = {"Images":{
         "CH3":"phase",
         "CH4":None
         },
-    "zstack":True
     }
 }
     

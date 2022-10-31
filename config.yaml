@@ -8,6 +8,3 @@ Images:
   - D:\tfm\1655
   format: Keyence
   input_file_type: TIF
-  recursive: true
-  zstack: true
-  log_level: null
