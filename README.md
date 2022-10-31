@@ -1,3 +1,9 @@
+---
+title: TractionsForAll Pre-Processing
+author: Jacob Teske
+date: 2022-09-27
+output: pdf_document
+---
 # TractionsForAll Pre-Processing
 
 *Author:* Jacob Teske
@@ -12,7 +18,7 @@
 
 When the program is run for the first time, or whenever no configuration file is found, a `config.yaml` file will be created in the same directory as the program. The contents of the default file will be found as below:
 
-```
+```yaml
 Images:
   channels:
     CH1: null
