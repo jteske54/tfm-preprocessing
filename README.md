@@ -10,7 +10,8 @@
 
 ## Configuration File
 
-When the program is run for the first time, or whenever no configuration file is found, a `config.yaml` file will be created in the same directory as the program. The contents of the default file will be found as below:
+When the program is run for the first time, or whenever no configuration file is found, a `config.yaml` file will be created in the same directory as the program.
+The contents of the default file will be found as below:
 
 ```yaml
 Images:
@@ -29,7 +30,10 @@ Images:
 
 ### Channels
 
-Change the channels to match the channels used to image. The channel used to image the beads should be labelled as `image`, and the channel used to image the cells (CellMask, DiI, phase contrast, etc.) should be labelled as `phase`. Any unused channels can be set as `null`. *NOTE: no channel values can be left blank. They must be set to `null`, or the channel key (CH1:, CH2:, etc.) must be deleted completely.*
+Change the channels to match the channels used to image.
+The channel used to image the beads should be labelled as `image`, and the channel used to image the cells (CellMask, DiI, phase contrast, etc.) should be labelled as `phase`.
+Any unused channels can be set as `null`.
+*NOTE: no channel values can be left blank. They must be set to `null`, or the channel key (CH1:, CH2:, etc.) must be deleted completely.*
 
 ### Folders
 
